@@ -1,0 +1,15 @@
+.active {
+    border-bottom: 3px solid #0b5ed7;
+    font-weight: bold;
+    color: #0b5ed7;
+}
+
+.img {
+    background-size: cover;
+}
+.top-left {
+    position: absolute;
+    top: 125px;
+    left: 10px;
+    color:aliceblue
+  }
